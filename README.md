@@ -4,3 +4,7 @@ With this app I hope to help artists, or anyone with an irregular income, budget
 The aim is to render these two resources into one convenient app:
 https://www.daveramsey.com/media/pdf/fpu_monthly_cash_flow_plan_forms.pdf
 http://www.daveramsey.com/media/pdf/irregular_income_planning.pdf
+
+## License
+
+MIT: http://aliel.mit-license.org/
